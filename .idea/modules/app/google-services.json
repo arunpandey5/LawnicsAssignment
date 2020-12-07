@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "101613733930",
+    "project_id": "lawnics-f6b93",
+    "storage_bucket": "lawnics-f6b93.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:101613733930:android:639af36dc3fee7549f1b53",
+        "android_client_info": {
+          "package_name": "com.example.lawnics"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "101613733930-l01u89j6ppsm513uhhdsr6cemttbunrb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.lawnics",
+            "certificate_hash": "381bf7583dda1c65f9d6084d74620620bb107462"
+          }
+        },
+        {
+          "client_id": "101613733930-5q6dr1fprffaqf44gctrpuj1jg4b516j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCO4SwYuhnQQFa1LdeFfXroGAepgUUXSUQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "101613733930-5q6dr1fprffaqf44gctrpuj1jg4b516j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
